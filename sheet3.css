@@ -1,0 +1,156 @@
+.assign-1-shape-1{
+    width: 500px;
+    background-position: center;
+    background-color: rgb(138, 43, 226);
+    padding: 20px;
+}
+.assign-1-shape-2{
+    width: 500px;
+    background-position: center;
+    background-color: rgb(138, 43, 226,0.5);
+    padding: 20px;
+}
+.assign-1-shape-3{
+    width: 500px;
+    background-position: center;
+    background-color: rgb(138, 43, 226,0.1);
+    padding: 20px;
+}
+
+/* =========================================================== */
+
+.assign-2-shape-1{
+    width: 400PX;
+    height: 400PX;
+    background-image: url(111.jpg);
+    background-size: 200px 200px;
+    background-repeat: no-repeat;
+}
+.assign-2-shape-2{
+    width: 400PX;
+    height: 400PX;
+    background-image: url(111.jpg);
+    background-size: 200px 200px;
+    background-repeat: repeat-Y;
+}
+.assign-2-shape-3{
+    width: 400PX;
+    height: 400PX;
+    background-image: url(111.jpg);
+    background-size: 200px 200px;
+    background-repeat: repeat-X;
+}
+.assign-2-shape-4{
+    width: 400PX;
+    height: 400PX;
+    background-image: url(111.jpg);
+    background-size: 200px 200px;
+    background-repeat: repeat;
+}
+
+/* ========================================================= */
+
+.assign-3-shape-1{
+    display: inline;
+    background-color: rgba(180, 203, 210, 0.705);
+    padding: 5px; 
+    border: 5px solid red;
+    outline: 5px solid black;
+    margin-right: 20px; /* تحديد التباعد من اليمين */
+    margin-bottom: 20px;}
+.assign-3-shape-2{
+    display: inline;
+    background-color: rgba(180, 203, 210, 0.705);
+    padding: 5px; 
+    border:5px solid ;
+    border-color: blue green;
+    outline: 5px solid black;
+    margin-right: 20px; 
+    margin-bottom: 20px;}
+.assign-3-shape-3{
+    display: inline;
+    background-color: rgba(180, 203, 210, 0.705);
+    padding: 5px; 
+    border:5px dashed ;
+    border-color: red green blue yellow;
+    outline: 5px solid black;
+    margin-right: 20px; 
+    margin-bottom: 20px;
+}
+
+/* ============================================================== */
+
+.element-element-1{
+    background-color: rgba(201, 211, 211, 0.495)  ;
+    padding: 5px;
+    border-color: rgb(239, 11, 125);
+    border-top: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    border-style: solid;
+    outline: 10px solid rgba(201, 211, 211, 0.495);
+}
+.element-element-2{
+    background-color: rgb(255, 255, 255)  ;
+    padding: 5px;
+    border-color: rgb(255, 255, 255);
+    border-top: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    border-style: solid;
+    outline: 10px solid rgb(255, 255, 255);
+    color: white;
+    
+}
+.element-element-3{
+    background-color: rgba(201, 211, 211, 0.495)  ;
+    padding: 5px;
+    border-color: green;
+    border-top: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    border-style: solid;
+    outline: 10px solid rgba(201, 211, 211, 0.495);
+}
+
+/* ===================================================================== */
+
+.tt1{
+    color: white;
+    width: fit-content;
+    max-width: 400px;
+    background-color: brown;
+    background-repeat: no-repeat;
+    padding: 5px;
+    margin: 10px;
+}
+.tt2{
+    color: white;
+    width: fit-content;
+    max-width: 400px;
+    background-color: brown;
+    background-repeat: no-repeat;
+    padding: 5px;
+    margin: 10px;
+}
+.tt3{
+    color: white;
+    width: fit-content;
+    max-width: 400px;
+    background-color: brown;
+    background-repeat: no-repeat;
+    padding: 5px;
+    margin: 10px;
+}
+.tt4{
+    color: white;
+    width: fit-content;
+    max-width: 400px;
+    background-color: brown;
+    background-attachment: fixed;
+    padding: 5px;
+    margin: 10px;
+    max-height: 40px ;
+    overflow: hidden;
+}
+/* =================================================================== */
